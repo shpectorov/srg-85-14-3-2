@@ -1,4 +1,4 @@
-@misc{GitHubRepo,
+@software{GitHubRepo,
   author = {Sergey Shpectorov and Tianxiao Zhao},
   title = {Enumeration of SRG(85,14,3,2)},
   year = {2025},
