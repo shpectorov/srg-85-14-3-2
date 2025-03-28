@@ -1,1 +1,9 @@
-
+@misc{GitHubRepo,
+  author = {Sergey Shpectorov and Tianxiao Zhao},
+  title = {Enumeration of SRG(85,14,3,2)},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/shpectorov/srg-85-14-3-2}},
+  commit = {}
+}
