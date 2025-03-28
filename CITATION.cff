@@ -1,9 +1,13 @@
-@software{GitHubRepo,
-  author = {Sergey Shpectorov and Tianxiao Zhao},
-  title = {Enumeration of SRG(85,14,3,2)},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/shpectorov/srg-85-14-3-2}},
-  commit = {}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shpectorov"
+  given-names: "Sergey"
+  orcid: "https://orcid.org/0000-0001-6202-5885"
+- family-names: "Zhao"
+  given-names: "Tianxiao"
+  orcid: "https://orcid.org/0009-0008-0432-8894"
+title: "Enumeration of SRG(85,14,3,2)"
+version: 1.0.0
+date-released: 2025-03-28
+url: "https://github.com/shpectorov/srg-85-14-3-2"
